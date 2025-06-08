@@ -1,0 +1,9 @@
+numpy
+torch
+datasets
+bitsandbytes
+trl
+peft
+transformers
+opencv-python
+jupyter
